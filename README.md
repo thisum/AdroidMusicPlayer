@@ -1,0 +1,1 @@
+Simple "Music Player" application. Loads all music in the phone and starts playing.
